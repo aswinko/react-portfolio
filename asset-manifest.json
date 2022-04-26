@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.95151016.css",
+    "main.js": "/react-portfolio/static/js/main.12eeaf5c.js",
+    "static/media/movie-app-react.png": "/react-portfolio/static/media/movie-app-react.49209b78bc0b7f4bcd1a.png",
+    "static/media/tribute-page.png": "/react-portfolio/static/media/tribute-page.20cd928f08bbf26a2a5e.png",
+    "static/media/netflix-clone.png": "/react-portfolio/static/media/netflix-clone.aa77659dcc35a9ee3ce9.png",
+    "static/media/personal-site.png": "/react-portfolio/static/media/personal-site.fd83451a8e73346d5563.png",
+    "static/media/lovecalculator.png": "/react-portfolio/static/media/lovecalculator.d4218c7377ec8b2b83c8.png",
+    "static/media/aswin.png": "/react-portfolio/static/media/aswin.de6205e1e2030af89d96.png",
+    "static/media/todo-app.png": "/react-portfolio/static/media/todo-app.3787294545f285938c47.png",
+    "static/media/award.png": "/react-portfolio/static/media/award.a796a64fbb78cc3a9666.png",
+    "static/media/address.png": "/react-portfolio/static/media/address.a01cb8cc428702f30bec.png",
+    "static/media/email.png": "/react-portfolio/static/media/email.a49e015815e3ac6d2bd3.png",
+    "static/media/sun.png": "/react-portfolio/static/media/sun.f794832ad72b90c61eb7.png",
+    "static/media/phone.png": "/react-portfolio/static/media/phone.d90a6d23cf5129d853bb.png",
+    "static/media/moon.png": "/react-portfolio/static/media/moon.3bea3d398a25611d421b.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.95151016.css.map": "/react-portfolio/static/css/main.95151016.css.map",
+    "main.12eeaf5c.js.map": "/react-portfolio/static/js/main.12eeaf5c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95151016.css",
+    "static/js/main.12eeaf5c.js"
+  ]
+}
